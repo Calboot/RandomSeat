@@ -184,7 +184,7 @@ const setTable = async (dat) => {
 		insideHtml += btr;
 	}
 
-	for (let j = 0; j < m; j++) export_table[0][j] = "第" + (m - j) + "列";
+	for (let j = 0; j < m; j++) export_table[0][j] = "第" + (j + 1) + "列";
 
 	insideHtml += btbody;
 	result.innerHTML = insideHtml;
