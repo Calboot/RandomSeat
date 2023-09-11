@@ -1,6 +1,6 @@
 {
   "name": "random-seat",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Random Seat UI",
   "main": "main.js",
   "scripts": {
