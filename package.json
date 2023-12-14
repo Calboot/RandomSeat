@@ -1,6 +1,6 @@
 {
   "name": "random-seat",
-  "version": "2.0.1",
+  "version": "2.1.1",
   "description": "Random Seat UI",
   "main": "main.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "@electron-forge/maker-zip": "^6.0.5",
     "@nodelib/fs.scandir": "^2.1.5",
     "@nodelib/fs.walk": "^1.2.8",
-    "electron": "^23.1.0",
+    "electron": "^24.8.2",
     "fast-glob": "^3.2.12",
     "lodash": "^4.17.21",
     "queue-microtask": "^1.2.3",

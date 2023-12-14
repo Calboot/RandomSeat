@@ -106,3 +106,6 @@ dist
 # Electron-Forge output
 out/
 out.zip
+
+# macOS
+.DS_Store
